@@ -5,3 +5,7 @@ Generic Express.js boilerplate, set up for HTML
 
 1. `yarn install`
 
+# Running
+
+1. `heorku local`
+
